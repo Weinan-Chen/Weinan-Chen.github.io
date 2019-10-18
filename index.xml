@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>首页</title>
+    <link>https://weinan-chen.github.io/</link>
+    <description>Recent content on 首页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://weinan-chen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://weinan-chen.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://weinan-chen.github.io/about/</guid>
+      <description> 关于我 我现在是一名大四本科生，就读于浙江财经大学金融学院金融学专业，想的很深，活得很俗，见识了许多复杂的人性，却依然不想猜度他人。最不想的事情是明明每一步走的都是当下最好的选择，最后却得到了当初最不想要的结果。
+实习经历 2018.7-2018.8  上海泽珉投资管理有限公司 投资研习社助理  &amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;担任私募基金管理人助理，初步了解证券市场游戏规则。
+2017.7-2017.8  台州市路桥区政府 发改委海洋经济办科员  &amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;参与多个如金清镇填海造陆、特色小镇等省级重大项目，参与了当地支柱企业调研，并获上级领导表扬信。
+荣誉奖项  浙江省大学生证券投资大赛校二等奖(省级A类), 2018. 美世杯优秀奖, 2018. 校优秀学生三等奖学金、优秀学生干部、优秀团员, 2018. 金融学院校友会优秀成员, 2017.  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://weinan-chen.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://weinan-chen.github.io/contact/</guid>
+      <description> 联系  电子邮箱: chanwein@zufe.edu.cn or 1123822704@qq.com 移动电话: (+86) 180-7294-9664 通讯地址: 浙江省杭州市江干区白杨街道学源街18号浙江财经大学桃李苑1幢 Instagram: ooolivie 新浪微博: Chanwein 微信: cwn1123822704  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://weinan-chen.github.io/pub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://weinan-chen.github.io/pub/</guid>
+      <description>实习经历 2018.7-2018.8  上海泽珉投资管理有限公司 投资研习社助理  &amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;担任私募基金管理人助理，初步了解证券市场游戏规则。
+2017.7-2017.8  台州市路桥区政府 发改委海洋经济办科员  &amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;参与多个如金清镇填海造陆、特色小镇等省级重大项目，参与了当地支柱企业调研，并获上级领导表扬信。</description>
+    </item>
+    
+  </channel>
+</rss>
