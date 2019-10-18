@@ -1,0 +1,75 @@
+baseURL = "https://Weinan-Chen.github.io/"
+title = "首页"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+publishDir = "docs"
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Weinan Chen(陈威男)"
+    info = "Senior@ZUFE"
+    description = "personal website"
+    keywords = "blog,developer,personal"
+    avatarurl = "images/me.jpeg"
+
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
+
+    hidecredits = true
+    hidecopyright = true
+
+    rtl = false
+
+    math = true
+
+# Social links
+[[params.social]]
+    name = "ins"
+    icon = "fab fa-instagram fa-2x"
+    weight = 1
+    url = "https://www.instagram.com/ooolivie/"
+[[params.social]]
+    name = "contact"
+    icon = "fas fa-envelope fa-2x"
+    weight = 2
+    url =  "mailto:chanwein@zufe.edu.cn"
+[[params.social]]
+    name = "weibo"
+    icon = "fab fa-weibo fa-2x"
+    weight = 3
+    url = "https://weibo.com/u/2692967915?topnav=1&wvr=6&topsug=1&is_hot=1"
+[[params.social]]
+    name = "cv"
+    icon = "ai ai-cv ai-2x"
+    weight = 4
+    #url = "https://deepdarkfantasy20.github.io/file/cv.pdf"
+    url = "file/cv.pdf"
+
+
+
+# Menu links
+[[menu.main]]
+    name = "关于"
+    weight = 1
+    url  = "about/"
+[[menu.main]]
+    name = "专业经历"
+    weight = 2
+    url = "pub/"
+[[menu.main]]
+    name = "简历"
+    weight = 3
+    url = "file/cv.pdf"
+[[menu.main]]
+    name = "联系"
+    weight = 4
+    url = "contact/"
